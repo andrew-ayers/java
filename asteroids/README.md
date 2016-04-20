@@ -1,4 +1,4 @@
-# Asteroids - A simple implementation of the Asteroids game in Java
+# Asteroids - A simple implementation in Java
 
 ### Features ###
 

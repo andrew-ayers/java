@@ -1,5 +1,5 @@
 //
-// Asteroids - A simple implementation of the Asteroids game in Java
+// Asteroids - A simple implementation in Java
 //
 // Copyright (C) 2016 by Andrew L. Ayers
 //

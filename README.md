@@ -1,8 +1,8 @@
-# PHP Experiments #
+# Java Experiments #
 
 ### About ###
 
-Here you will find my various experiments, projects, and failures for PHP.
+Here you will find my various experiments, projects, and failures for Java.
 
 * Unless otherwise specified, all code is licensed as GPLv3 (http://www.gnu.org/licenses/gpl-3.0.en.html)
 * No guarantees that any of the code will compile properly or work at all!
